@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+jiaojiao;Data+Analyst+%7C+Product+Researcher;Short-Drama+Monetization+Nerd" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+jiaojiao;Content+Operation+%7C+Product+Researcher;Short-Drama+Monetization+Nerd" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -9,12 +9,12 @@
 
 ---
 
-### 🧭 About Me
+###  About Me
 
 - 🎓 Student in Beijing, currently interning as a **Data Analyst**
 - 🔍 Focus on **mobile app monetization**, **competitor research**, and **ad revenue analytics**
 - 🛠️ Daily stack: **SQL** · **Python** · **Excel** · **Redash** · **GitHub**
-- 🌱 Learning: data pipeline automation, statistical testing, and growth analytics
+- 🔄 Learning: data pipeline automation, statistical testing, and growth analytics
 - 💬 Languages: 中文 / English
 
 ---
