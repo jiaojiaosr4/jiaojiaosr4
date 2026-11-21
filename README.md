@@ -42,30 +42,13 @@ HP ▓▓▓░░  LV.2
   </tr>
 </table>
 
-## 对战记录
+## 属性图鉴
 
-<table>
-  <tr>
-    <td width="34%">
-      <div align="center">
-        <img src="https://img.shields.io/badge/%E6%88%98%E7%BB%A9-FF3C28?style=flat-square&labelColor=1B1B1F" alt="战绩"/><br/><br/>
-        <img src="https://github-readme-stats.vercel.app/api?username=jiaojiaosr4&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&title_color=FF3C28&text_color=E8E8EC&icon_color=FF3C28&bg_color=1B1B1F&border_color=FF3C28&stroke_color=FF3C28&locale=cn" width="100%"/>
-      </div>
-    </td>
-    <td width="33%">
-      <div align="center">
-        <img src="https://img.shields.io/badge/%E5%B1%9E%E6%80%A7-0AB9E6?style=flat-square&labelColor=1B1B1F" alt="属性"/><br/><br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiaojiaosr4&layout=compact&title_color=0AB9E6&text_color=E8E8EC&bg_color=1B1B1F&border_color=0AB9E6&hide_border=false&locale=cn" width="100%"/>
-      </div>
-    </td>
-    <td width="33%">
-      <div align="center">
-        <img src="https://img.shields.io/badge/%E8%BF%9E%E8%83%9C-FF3C28?style=flat-square&labelColor=1B1B1F" alt="连胜"/><br/><br/>
-        <img src="https://streak-stats.demolab.com/?user=jiaojiaosr4&background=1B1B1F&border=FF3C28&border_radius=4&stroke=FF3C28&ring=FF3C28&fire=FF3C28&currStreakNum=E8E8EC&currStreakLabel=FF3C28&sideNums=E8E8EC&sideLabels=6E6E78&dates=6E6E78" width="100%"/>
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/jiaojiaosr4">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiaojiaosr4&layout=compact&title_color=0AB9E6&text_color=E8E8EC&bg_color=1B1B1F&border_color=0AB9E6&hide_border=false&locale=cn" alt="属性"/>
+  </a>
+</div>
 
 ## 野外出现中
 
